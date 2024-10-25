@@ -1,0 +1,7 @@
+@charset "utf-8";@import url("../webfonts/DOCALLISME_ON_STREET/stylesheet.css");
+.Titulo {
+	color: #07FF00;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: xx-large;
+	text-align: center;
+}
