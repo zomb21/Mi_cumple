@@ -5,6 +5,7 @@
 			Mi cumpleaños!!!
 		</title>
 		<link href="CSS/CSS.css" rel="stylesheet" type="text/css">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
 	</head>
 	<body background="Imagen/images.jpg" marginwidth="1">
 		<p><center>
