@@ -17,6 +17,6 @@
 		<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.477122740976!2d-77.0119256!3d-12.0106387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105cf623fb7a9ef%3A0xebcf4a116d0372ad!2sLas%20Cal%C3%A9ndulas%201119%2C%20San%20Juan%20de%20Lurigancho%2015404!5e0!3m2!1ses-419!2spe!4v1729905901306!5m2!1ses-419!2spe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 		<p><font size="10" color="#FF0004">Click aqui!!!</font></p>
 		<p class="Titulo">Calendulas 1119</p>
-		<p span class="Titulo"><a href="https://forms.gle/m4dnFKD7hmauFq6f9">Reserva tu espacio para el grupo</a></p></center>
+		<p span class="Titulo"><font size="20"><a href="https://forms.gle/m4dnFKD7hmauFq6f9">Reserva tu espacio para el grupo</a></font></p></center>
 	</body>
 </html>
