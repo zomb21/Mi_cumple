@@ -12,7 +12,8 @@
 				<source src="Videos/Fondo.mp4" type="video/mp4">
 			</video>
 		</p>
-		<p span class="Titulo">¿Donde será?: <a href="https://maps.app.goo.gl/F5mHAV4GmBcjojdPA">Click aqui!!!</a></p>
+		<center><p span class="Titulo">¿Donde será?: <a href="https://maps.app.goo.gl/F5mHAV4GmBcjojdPA">Click aqui!!!</a></p>
 		<p class="Titulo">Calendulas 119</p>
+		<p><a href="https://forms.gle/m4dnFKD7hmauFq6f9">reserva concerva tu espacio para el grupo</a></p></center>
 	</body>
 </html>
