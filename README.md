@@ -7,7 +7,7 @@
 		</title>
 		<link href="CSS/CSS.css" rel="stylesheet" type="text/css">
 	</head>
-	<body background="Imagen/images.jpg" marginwidth="0">
+	<body background="Imagen/images.jpg" marginwidth="1">
 		<p>
 			<video width="1400" height="1080" contextmenu muted="muted" autoplay="autoplay" loop="loop">
 				<source src="Videos/Fondo.mp4" type="video/mp4">
